@@ -1,0 +1,60 @@
+COMMAND: python scripts/verify_team.py
+EXIT: 0
+FROZEN CORE INTACT
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_autonomy_contrast_prompt.txt
+VALIDATION PASSED
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_contrast_1_prompt.txt
+VALIDATION PASSED
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_contrast_2_prompt.txt
+VALIDATION PASSED
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_monitor_only_prompt.txt
+VALIDATION PASSED
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_primary_prompt.txt
+VALIDATION PASSED
+/Users/meilin/Documents/Codex/2026-11-03/im-doing-this/work/teammate-review/work/adoption_agent_qualified_prompt.txt
+VALIDATION PASSED
+work/candidate_Harry-max264_primary.txt
+work/candidate_Harry-max264_contrast_1.txt
+work/candidate_Harry-max264_contrast_2.txt
+work/candidate_Harry-max264_qualified.txt
+work/candidate_Harry-max264_autonomy_contrast.txt
+work/candidate_yicrry777_primary.txt
+work/candidate_yicrry777_contrast_1.txt
+work/candidate_yicrry777_contrast_2.txt
+work/candidate_yicrry777_qualified.txt
+work/candidate_yicrry777_autonomy_contrast.txt
+work/candidate_mp7240-sudo_primary.txt
+work/candidate_mp7240-sudo_contrast_1.txt
+work/candidate_mp7240-sudo_contrast_2.txt
+work/candidate_mp7240-sudo_qualified.txt
+work/candidate_mp7240-sudo_autonomy_contrast.txt
+work/candidate_yanisimova_primary.txt
+work/candidate_yanisimova_contrast_1.txt
+work/candidate_yanisimova_contrast_2.txt
+work/candidate_yanisimova_qualified.txt
+work/candidate_yanisimova_autonomy_contrast.txt
+work/candidate_sawulya_primary.txt
+work/candidate_sawulya_contrast_1.txt
+work/candidate_sawulya_contrast_2.txt
+work/candidate_sawulya_qualified.txt
+work/candidate_sawulya_autonomy_contrast.txt
+PASS: frozen core; 6 input/output schema pairs; exact output fields; 6 team + 25 candidate packets; posture isolation; stable findings; action prefixes; bounded protocol; qualified stop/retest; 2 negative semantic checks.
+LIMITS: fixture/rule verification only; independent model evaluation, business pilot, team approval and workshop attendance not verified.
+PASS: fifth-candidate disagreement/task-group controls and autonomy consequence contrast.
+PASS: explicit trial gate -> DEFER; external-observation-only scope -> MONITOR; stable ET/application findings; conflicting active clauses removed.
+
+COMMAND: python tests/monitor_defer_v1_2/verify.py
+EXIT: 0
+PASS: NYU Program B remains DEFER; monitoring is supporting work; active conflicting clauses absent.
+Reference-fixture regression only; historical v1.1 qualified records remain valid for that version.
+
+COMMAND: python tests/final_validation_2026-11-03/verify.py
+EXIT: 0
+VALIDATION PASSED
+VALIDATION PASSED
+VALIDATION PASSED
+PASS original case, full contracts, exact agent version and category: primary BOUNDED_EXPERIMENT
+PASS original case, full contracts, exact agent version and category: contrast_1 DEFER
+PASS original case, full contracts, exact agent version and category: qualified DEFER
+PASS unchanged matched context, invariant findings, bounded protocol, qualified pause/retest and saved artifact hashes
+LIMIT: same-conversation AI qualitative analyses; no independent inference or operational trial claimed.

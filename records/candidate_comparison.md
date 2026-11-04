@@ -10,16 +10,16 @@ All five supplied repositories were inspected at the exact revisions in provenan
 | Prior Team-Assignment6 (historical context only) | Diffusion denominator discipline and handoff boundary | This is a prior team Diffusion specialist, NOT a fifth individual Adoption package; member attribution cannot be inferred |
 
 ## Common-case design comparison
-Method: same saved procurement primary/contrast inputs assessed against each candidate's written rules in this interactive Codex session. This is a rule-level comparison, not independent model benchmarking. Complete prompt packets for all four Adoption candidates are in work/candidate_*.txt.
+Method: same saved procurement primary/contrast inputs assessed against each candidate's written rules in this interactive Codex session. This is a rule-level comparison, not independent model benchmarking. Complete prompt packets for all five Adoption candidates are in work/candidate_*.txt. The table below describes current v1.2 synthesis; source-rule columns are reviewer interpretations, not independent model runs.
 
 | Common context | Harry rules | Shuoying rules | mp7240 rules | yanisimova rules | Synthesis |
 |---|---|---|---|---|---|
 | Authorized synthetic sandbox; uncertainty is comparative workflow value | Bounded experiment | Non-passenger analogy may favor PoC | Experiment wording favors real work | Bounded experiment | Shadow workflow experiment; define by question, not data realism |
-| Only posture changes; sponsorship explicitly withheld | Monitor | No active trial justified: monitor | Same gates, urgency may vary | Monitor | Monitor because authorization changed explicitly, not because maturity changed |
+| Only posture changes; sponsorship withheld pending independent evidence | Original rule may favor monitor | Original broad distinction requires scope clarification | Defer named blocked execution; urgency may vary | Original rule may favor monitor | **DEFER** the named experiment under v1.2; external monitoring supports the deferral; maturity unchanged |
 | Enthusiastic sponsor; reviewer and environment unverified | Defer | No live gate passed; qualify safe preparation | Defer now, conditional PoC later | Defer | Defer execution; do not invent sandbox authorization |
 | Material price error escaped reviewers | Stop/defer | Safety gate failure blocks use | Controls require verification | Narrow/pause could be ambiguous | Explicit pause and independent retest required |
 
-These are reviewer interpretations of rules, not quoted candidate runtime results. Team acceptance of these choices remains unrecorded.
+These are reviewer interpretations of rules, not quoted candidate runtime results. Team approval of the integrated v1.2 agent was reported by the user for November 3, 2026; see approval_2026-11-03/approval.md. Source-rule interpretations remain distinct from actual runtime results.
 
 ## v1.1 corrected fourth candidate: sawulya
 Source: provenance/sawulya, exact revision in source_revisions.json. Instructions, three cases, three responses and record reviewed. The record explicitly describes representative simulated responses and a constructed diagnostic failure; neither is relabeled as an independent execution.

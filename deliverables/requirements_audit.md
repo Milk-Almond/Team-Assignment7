@@ -8,11 +8,11 @@
 | Qualified case; more evidence; reversal triggers | qualified case/response, stop rules | Saved and checked |
 | Informative weakness and revision | preserved weak artifact; failure log; negative tests | Verified against saved evidence |
 | Inspect every candidate / contribution lineage | provenance; candidate_comparison | All five Adoption candidates inspected; corrected fourth input is sawulya, pinned with preserved source artifacts |
-| Advocate/risk-officer and bias controls | dissent_and_bias_review | AI challenge recorded; actual member dissent pending |
+| Advocate/risk-officer and bias controls | dissent_and_bias_review | AI challenge and retained concern recorded; team approval reported; no personal dissent invented |
 | Consequential source verification | evidence_register | NIST originals checked; current market/vendor/law unknowns withheld |
-| Team-approved artifact and Team Agent Record | agent_record, contributions | Technical package complete; real team approval not supplied |
+| Team-approved artifact and Team Agent Record | agent_record, contributions | All-member approval confirmed by user for November 3, 2026; see approval record |
 | Named version; persistent logs/inventory/handoff | 1.2-team-review; records; repository commit | Preserved |
 | 60-minute workshop, ~90% human work, agreed post-class scope | contributions | Cannot verify or manufacture; human evidence required |
 | One member posts within one day to Brightspace | README submission steps | Not performed; actual deadline/submitter must be checked |
 
-No claim of full compliance is made while human-process requirements remain unresolved.
+All-member approval is recorded. Workshop process and course posting cannot be established by code checks; do not manufacture them. Fresh same-conversation primary/contrast/qualified analyses supplement the saved fixtures; they do not establish independent model reliability.

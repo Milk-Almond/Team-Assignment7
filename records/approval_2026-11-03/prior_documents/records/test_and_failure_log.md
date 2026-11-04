@@ -1,0 +1,14 @@
+# Test / failure log
+Primary -> BOUNDED_EXPERIMENT; posture-only contrast -> MONITOR; missing-controls contrast -> DEFER; material-error qualification -> DEFER/pause. General technology and application findings stay identical in the matched primary/posture pair.
+Weak evidence: inherited Harry v0.1 actual saved artifact in agents/adoption_agent/records/weak_response.json. Format alone accepted vague reconsideration; team rules demand measurable accountable reversal. This history is inherited, not a newly observed team runtime failure.
+Regression outputs are interactive AI-assisted fixtures, not independent conversations or measured business outcomes. Prompt packets are generated with the frozen builder for team and four candidate versions using common primary/contrast cases. Local checks validate schema, exact keys, contrast isolation, category prefix, bounded protocol and rejection of weak/unsafe mutations. See deliverables/verification_log.txt.
+Retest conclusion: fixture checks pass after explicit pause rule. Still unknown: repeated model compliance, generalization, actual staff review performance, and ADOPT/PoC/reject runtime behavior.
+
+2026-11-03: Added supplied NYU classroom questions, all five answers and six frozen-schema responses. See tests/nyu_syllabus_2026-11-03/README.md. Q4 MONITOR/DEFER ambiguity preserved as qualified pass; tested instructions unchanged.
+
+v1.1: corrected fourth Adoption input sawulya integrated. New autonomy consequence contrast, five full schema pairs and all five candidates' common packets checked. Prior v1.0 MONITOR result archived; v1.1 applies DEFER to the explicit sponsorship evidence gate. NYU Q4 ambiguity recorded in the historical test informed this change. New NYU v1.1 record preserves same-session analysis/retest limits. No independent or repeated model performance claim.
+
+Repeat-upload v1.1 test: supplied PDF identical to prior; new combined response and records in tests/nyu_repeat_upload_v1_1. B/C/A/D/B align with inferred key. Q4 remains QUALIFIED because earlier MONITOR clauses conflict with later DEFER clarification. No rule changed during testing.
+
+## v1.2 MONITOR / DEFER repair
+User authorized correction of the preserved category conflict. Active MONITOR/DEFER definitions and ordered rule 4 now use one decision-scope test: a named activity blocked by an explicit prerequisite is DEFER; observation-only scope with no named blocked activity is MONITOR. Independent evidence collection can support DEFER without relabeling the blocked trial. Old conflicting instructions and responses are archived under agents/adoption_agent/records/version_1_1; historical tests are unchanged. Added monitor_only reference case/response to contrast with gated contrast_1. Local schema and saved-fixture consistency checks pass; no independent model behavior or team approval is claimed.

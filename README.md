@@ -1,6 +1,6 @@
 # Team Lab 7 — Emerging Technology Adoption Agent
 
-Version **1.2-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
+Version **1.2-team-review**. **All-member team approval confirmed for November 3, 2026**, as reported by the user. Publication record: team7-nov3-approved-1.2. Workshop-process evidence remains separate; runtime version and approved logic are unchanged.
 
 ## Start here
 - [Team Agent Record](agents/adoption_agent/records/agent_record.md)
@@ -16,11 +16,14 @@ python tools/build_prompt.py --agent agents/adoption_agent --case agents/adoptio
 ```
 Open the generated work/adoption_agent_primary_prompt.txt in ChatGPT, run it, save the actual JSON, then validate with tools/validate_response.py and rerun the verifier. No API key is required. Existing responses are explicitly labeled fixtures in the test log, not independent repeat runs.
 
-## Proposed management decision
+## Team-approved management posture (hypothetical case)
 A four-week synthetic/public-data shadow experiment can test comparative workflow value under assumed permissions, two reviewers and USD 2000 total cap. Decisive factor: authorized reversible learning. Missing controls or a material error changes current action to DEFER. Successful screening permits further evaluation, not automatic ADOPT.
 
 ## Submission
-Review the requirements audit with all members; record the actual decision, dissent, contribution and workshop evidence, and review all five individual Adoption inputs (sawulya replaces the previously supplied Diffusion link). One designated member submits the team repository/package and Agent Record to Brightspace within the course's one-day posting window. GitHub posting alone does not submit to Brightspace. Do not mark approval or classroom attendance without evidence.
+See [final step-by-step checklist](deliverables/SUBMISSION_CHECKLIST.md), [report-out](deliverables/REPORT_OUT.md), and [approval record](records/approval_2026-11-03/approval.md). All five Adoption inputs are integrated. A designated member must complete the course-system submission and retain the receipt; verify the actual course deadline rather than infer it from this repository. Do not invent attendance, timing or signatures.
+
+## Final case validation
+[Primary, posture contrast and qualified-case analyses](tests/final_validation_2026-11-03/README.md) were newly authored in the current Codex conversation using the unchanged approved rules and case inputs. Exact packets, outputs, checks and limits are preserved. These supplement inherited fixtures; they are not independent model benchmarking, an API run or a business trial.
 
 ## Classroom-question test records
 [NYU syllabus checking: five questions, six context responses](tests/nyu_syllabus_2026-11-03/README.md). Answers B/C/A/D/B align with reviewer-inferred case reasoning; Q4 category ambiguity preserved. Same-session AI walkthrough, not independent benchmarking.

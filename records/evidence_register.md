@@ -6,3 +6,5 @@ Verified original publications through web retrieval on 2026-11-03 in this sessi
 - P1 provenance/source_revisions.json: exact candidate revisions; code/records establish designs and claimed test history, not independent operational efficacy.
 - All Siemens Energy conditions, staffing, costs, test tasks and qualification incident are SYNTHETIC teaching assumptions. No real company policy, savings or pilot is asserted.
 Current vendor capability, regulation applicability and peer procurement penetration have NOT been verified. These unknowns cannot support ADOPT. No market figures or banking/robotaxi regulatory claims from candidates are carried into the team outputs.
+
+Final consolidation: original S1/S2 PDFs reopened in the current review on November 3, 2026. Their narrow risk/context claims are retained. No additional vendor, market or legal facts were asserted as verified.

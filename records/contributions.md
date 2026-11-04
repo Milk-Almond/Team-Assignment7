@@ -1,8 +1,13 @@
 # Contributions and approval status
-Source authors materially informed design as mapped in candidate_comparison.md and pinned in provenance/source_revisions.json. This is source attribution, not a claim they participated in this session. Shenghao Ma requested integration into the shared repository. Codex inspected sources, proposed synthesis, prepared common packets and illustrative outputs, and ran local checks.
-Unverified: which member compared/tested/verified in class; designated Brightspace submitter; actual dissent; approximately 90% workshop work; team approval. Record real names, decisions and dates after the team reviews the package. No signatures or approval are fabricated.
-CORRECTION: User supplied sawulya/Lab-6---SubAgent-5-Adoption as the fourth individual candidate; inspected at the pinned revision in source_revisions.json. Prior Diffusion provenance remains historical context.
 
-User reconfirmed the five supplied repositories as the designated student inputs. All five are retained; fourth repository content remains Diffusion. No individual contribution beyond observable source content is inferred.
+## Current status — November 3, 2026
 
-v1.1 material source contribution — sawulya: consequence gate, AI/human disagreement logging, task-group/drift monitoring, adjacent-category reasoning and accurate constructed-failure labels. Codex implemented these rules and prepared regression evidence; user authorized integration. This is source attribution, not a claim of classroom participation or a team vote.
+All team members approved the integrated v1.2 agent, as explicitly reported by the user. See [approval record](approval_2026-11-03/approval.md). Approval is user-reported collective approval; individual signatures are not invented.
+
+The five Adoption inputs are Harry-max264, yicrry777, mp7240-sudo, yanisimova and sawulya at the revisions in provenance/source_revisions.json. Prior Milk-Almond Team-Assignment6 is historical Diffusion context and is not one of the five Adoption candidates. The previously contradictory fourth-input statement is corrected here; prior text is preserved under approval_2026-11-03/prior_documents/.
+
+Source contributions are mapped in candidate_comparison.md: Harry's measurable workflow protocol; yicrry777's exposure-specific live gates; mp7240-sudo's current-versus-conditional action and prerequisite discipline; yanisimova's confidentiality, challenge and qualification controls; sawulya's consequence gate, disagreement/task-group/drift checks and adjacent-category reasoning.
+
+Codex inspected sources, consolidated documentation, regenerated existing prompt packets, produced fresh primary/contrast/qualified analyses in the current conversation and ran contract/regression checks. These are same-conversation analyses, not independent model benchmarking or actual business trials.
+
+Individual in-class tasks, attendance, the approximately 90% human-work requirement and exact workshop timings were not supplied. Approval does not establish those process facts. The final submission checklist asks the team to record only facts it can attest to. Brightspace submission remains a separate action.
