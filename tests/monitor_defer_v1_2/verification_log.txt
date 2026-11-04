@@ -1,0 +1,2 @@
+PASS: NYU Program B remains DEFER; monitoring is supporting work; active conflicting clauses absent.
+Reference-fixture regression only; historical v1.1 qualified records remain valid for that version.

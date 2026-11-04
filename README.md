@@ -1,6 +1,6 @@
 # Team Lab 7 — Emerging Technology Adoption Agent
 
-Version **1.1-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
+Version **1.2-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
 
 ## Start here
 - [Team Agent Record](agents/adoption_agent/records/agent_record.md)
@@ -29,3 +29,6 @@ Review the requirements audit with all members; record the actual decision, diss
 All five individual Adoption candidates are now compared, including [sawulya](https://github.com/sawulya/Lab-6---SubAgent-5-Adoption), which replaces the mistaken prior-team Diffusion input. See [concrete source contributions](records/candidate_comparison.md) and [v1.1 NYU regression](tests/nyu_syllabus_v1_1/README.md). Prior v1.0 and NYU records are historical. Current procurement contrast_1 is DEFER for the explicitly blocked experiment; monitoring is supporting evidence collection. All regression responses remain reference examples rather than independently generated model runs.
 
 [Repeat-upload v1.1 test](tests/nyu_repeat_upload_v1_1/README.md): answers B/C/A/D/B; Q4 qualified due to surviving MONITOR/DEFER instruction conflict. Records retained without rewriting earlier runs.
+
+## Current category rule (v1.2)
+The historical MONITOR/DEFER conflict is repaired in the active definitions and ordered rule 4. Explicit unmet prerequisite for a named trial -> DEFER; observation-only decision with no named blocked activity -> MONITOR. Old tests retain their original qualified status. See [repair record](records/monitor_defer_v1_2.md).

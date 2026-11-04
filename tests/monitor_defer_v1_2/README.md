@@ -1,0 +1,1 @@
+Version 1.2 rule repair regression. NYU Program B reference output adapted from the saved v1.1 answer, not a new independent execution. See records/monitor_defer_v1_2.md for current decision-boundary examples. Run verify.py and scripts/verify_team.py. Historical runs are unchanged.

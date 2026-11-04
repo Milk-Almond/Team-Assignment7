@@ -1,13 +1,15 @@
 FROZEN CORE INTACT
-/tmp/team7_audit/work/adoption_agent_autonomy_contrast_prompt.txt
+/tmp/team7_rulefix/work/adoption_agent_autonomy_contrast_prompt.txt
 VALIDATION PASSED
-/tmp/team7_audit/work/adoption_agent_contrast_1_prompt.txt
+/tmp/team7_rulefix/work/adoption_agent_contrast_1_prompt.txt
 VALIDATION PASSED
-/tmp/team7_audit/work/adoption_agent_contrast_2_prompt.txt
+/tmp/team7_rulefix/work/adoption_agent_contrast_2_prompt.txt
 VALIDATION PASSED
-/tmp/team7_audit/work/adoption_agent_primary_prompt.txt
+/tmp/team7_rulefix/work/adoption_agent_monitor_only_prompt.txt
 VALIDATION PASSED
-/tmp/team7_audit/work/adoption_agent_qualified_prompt.txt
+/tmp/team7_rulefix/work/adoption_agent_primary_prompt.txt
+VALIDATION PASSED
+/tmp/team7_rulefix/work/adoption_agent_qualified_prompt.txt
 VALIDATION PASSED
 work/candidate_Harry-max264_primary.txt
 work/candidate_Harry-max264_contrast_1.txt
@@ -34,6 +36,7 @@ work/candidate_sawulya_contrast_1.txt
 work/candidate_sawulya_contrast_2.txt
 work/candidate_sawulya_qualified.txt
 work/candidate_sawulya_autonomy_contrast.txt
-PASS: frozen core; 5 input/output schema pairs; exact output fields; 5 team + 25 candidate packets; posture isolation; stable findings; action prefixes; bounded protocol; qualified stop/retest; 2 negative semantic checks.
+PASS: frozen core; 6 input/output schema pairs; exact output fields; 6 team + 25 candidate packets; posture isolation; stable findings; action prefixes; bounded protocol; qualified stop/retest; 2 negative semantic checks.
 LIMITS: fixture/rule verification only; independent model evaluation, business pilot, team approval and workshop attendance not verified.
 PASS: fifth-candidate disagreement/task-group controls and autonomy consequence contrast.
+PASS: explicit trial gate -> DEFER; external-observation-only scope -> MONITOR; stable ET/application findings; conflicting active clauses removed.
