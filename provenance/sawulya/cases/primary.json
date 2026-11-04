@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Machine-learning AI models for credit-risk prediction and decision support",
+  "intended_application": "AI-assisted consumer-loan underwriting recommendations with a human loan officer retaining final authority",
+  "industry_sector": "U.S. consumer banking / credit underwriting",
+  "business_need": "Reduce review workload while maintaining fair, explainable, accurate credit decisions",
+  "users_stakeholders": "Applicants, loan officers, model-risk team, compliance, customer support, bank management",
+  "management_question": "What adoption posture should management approve now?",
+  "time_horizon": "Next 90 days, with a review after a bounded pilot",
+  "organization": "Hypothetical regional bank with limited model validation staff",
+  "adoption_posture": "Conservative / risk-averse",
+  "capabilities_constraints": "No verified local model accuracy, subgroup performance, explainability test or approved vendor due diligence; limited model risk resources; existing manual review",
+  "risk_consequence_context": "Incorrect or unfair recommendations can affect credit access and trigger legal and reputational consequences; human override is possible",
+  "additional_context": "Instructional hypothetical case. No live institution or empirical model evaluation is supplied."
+}

@@ -1,6 +1,6 @@
 # Team Lab 7 — Emerging Technology Adoption Agent
 
-Version **1.0-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
+Version **1.1-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
 
 ## Start here
 - [Team Agent Record](agents/adoption_agent/records/agent_record.md)
@@ -20,7 +20,10 @@ Open the generated work/adoption_agent_primary_prompt.txt in ChatGPT, run it, sa
 A four-week synthetic/public-data shadow experiment can test comparative workflow value under assumed permissions, two reviewers and USD 2000 total cap. Decisive factor: authorized reversible learning. Missing controls or a material error changes current action to DEFER. Successful screening permits further evaluation, not automatic ADOPT.
 
 ## Submission
-Review the requirements audit with all members; record the actual decision, dissent, contribution and workshop evidence, and resolve the missing fifth individual Adoption package (the supplied Team-Assignment6 is a Diffusion agent). One designated member submits the team repository/package and Agent Record to Brightspace within the course's one-day posting window. GitHub posting alone does not submit to Brightspace. Do not mark approval or classroom attendance without evidence.
+Review the requirements audit with all members; record the actual decision, dissent, contribution and workshop evidence, and review all five individual Adoption inputs (sawulya replaces the previously supplied Diffusion link). One designated member submits the team repository/package and Agent Record to Brightspace within the course's one-day posting window. GitHub posting alone does not submit to Brightspace. Do not mark approval or classroom attendance without evidence.
 
 ## Classroom-question test records
 [NYU syllabus checking: five questions, six context responses](tests/nyu_syllabus_2026-11-03/README.md). Answers B/C/A/D/B align with reviewer-inferred case reasoning; Q4 category ambiguity preserved. Same-session AI walkthrough, not independent benchmarking.
+
+## Version 1.1 integration
+All five individual Adoption candidates are now compared, including [sawulya](https://github.com/sawulya/Lab-6---SubAgent-5-Adoption), which replaces the mistaken prior-team Diffusion input. See [concrete source contributions](records/candidate_comparison.md) and [v1.1 NYU regression](tests/nyu_syllabus_v1_1/README.md). Prior v1.0 and NYU records are historical. Current procurement contrast_1 is DEFER for the explicitly blocked experiment; monitoring is supporting evidence collection. All regression responses remain reference examples rather than independently generated model runs.

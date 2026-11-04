@@ -23,5 +23,11 @@
     "owner": "yanisimova",
     "url": "https://github.com/yanisimova/Lab-6-AI.git",
     "commit": "0894264d99b5e9f5e0dd98006de1a94794d2039c"
+  },
+  {
+    "owner": "sawulya",
+    "url": "https://github.com/sawulya/Lab-6---SubAgent-5-Adoption.git",
+    "commit": "6fb54bb572c2a9b876b899a882f1ce02f0527752",
+    "role": "Corrected fourth individual Adoption candidate; replaces prior Diffusion repository in current five-candidate comparison."
   }
 ]

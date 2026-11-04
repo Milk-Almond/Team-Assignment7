@@ -1,27 +1,39 @@
 FROZEN CORE INTACT
-/workspace/scratch/9c4d26e968ce/team7/work/adoption_agent_contrast_1_prompt.txt
+/tmp/team7_audit/work/adoption_agent_autonomy_contrast_prompt.txt
 VALIDATION PASSED
-/workspace/scratch/9c4d26e968ce/team7/work/adoption_agent_contrast_2_prompt.txt
+/tmp/team7_audit/work/adoption_agent_contrast_1_prompt.txt
 VALIDATION PASSED
-/workspace/scratch/9c4d26e968ce/team7/work/adoption_agent_primary_prompt.txt
+/tmp/team7_audit/work/adoption_agent_contrast_2_prompt.txt
 VALIDATION PASSED
-/workspace/scratch/9c4d26e968ce/team7/work/adoption_agent_qualified_prompt.txt
+/tmp/team7_audit/work/adoption_agent_primary_prompt.txt
+VALIDATION PASSED
+/tmp/team7_audit/work/adoption_agent_qualified_prompt.txt
 VALIDATION PASSED
 work/candidate_Harry-max264_primary.txt
 work/candidate_Harry-max264_contrast_1.txt
 work/candidate_Harry-max264_contrast_2.txt
 work/candidate_Harry-max264_qualified.txt
+work/candidate_Harry-max264_autonomy_contrast.txt
 work/candidate_yicrry777_primary.txt
 work/candidate_yicrry777_contrast_1.txt
 work/candidate_yicrry777_contrast_2.txt
 work/candidate_yicrry777_qualified.txt
+work/candidate_yicrry777_autonomy_contrast.txt
 work/candidate_mp7240-sudo_primary.txt
 work/candidate_mp7240-sudo_contrast_1.txt
 work/candidate_mp7240-sudo_contrast_2.txt
 work/candidate_mp7240-sudo_qualified.txt
+work/candidate_mp7240-sudo_autonomy_contrast.txt
 work/candidate_yanisimova_primary.txt
 work/candidate_yanisimova_contrast_1.txt
 work/candidate_yanisimova_contrast_2.txt
 work/candidate_yanisimova_qualified.txt
-PASS: frozen core; 4 input/output schema pairs; exact output fields; 4 team + 16 candidate packets; posture isolation; stable findings; action prefixes; bounded protocol; qualified stop/retest; 2 negative semantic checks.
+work/candidate_yanisimova_autonomy_contrast.txt
+work/candidate_sawulya_primary.txt
+work/candidate_sawulya_contrast_1.txt
+work/candidate_sawulya_contrast_2.txt
+work/candidate_sawulya_qualified.txt
+work/candidate_sawulya_autonomy_contrast.txt
+PASS: frozen core; 5 input/output schema pairs; exact output fields; 5 team + 25 candidate packets; posture isolation; stable findings; action prefixes; bounded protocol; qualified stop/retest; 2 negative semantic checks.
 LIMITS: fixture/rule verification only; independent model evaluation, business pilot, team approval and workshop attendance not verified.
+PASS: fifth-candidate disagreement/task-group controls and autonomy consequence contrast.

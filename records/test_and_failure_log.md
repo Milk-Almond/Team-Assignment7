@@ -5,3 +5,5 @@ Regression outputs are interactive AI-assisted fixtures, not independent convers
 Retest conclusion: fixture checks pass after explicit pause rule. Still unknown: repeated model compliance, generalization, actual staff review performance, and ADOPT/PoC/reject runtime behavior.
 
 2026-11-03: Added supplied NYU classroom questions, all five answers and six frozen-schema responses. See tests/nyu_syllabus_2026-11-03/README.md. Q4 MONITOR/DEFER ambiguity preserved as qualified pass; tested instructions unchanged.
+
+v1.1: corrected fourth Adoption input sawulya integrated. New autonomy consequence contrast, five full schema pairs and all five candidates' common packets checked. Prior v1.0 MONITOR result archived; v1.1 applies DEFER to the explicit sponsorship evidence gate. NYU Q4 ambiguity recorded in the historical test informed this change. New NYU v1.1 record preserves same-session analysis/retest limits. No independent or repeated model performance claim.

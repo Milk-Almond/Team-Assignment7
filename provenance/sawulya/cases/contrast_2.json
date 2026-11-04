@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Machine-learning AI models for credit-risk prediction and decision support",
+  "intended_application": "Autonomous consumer-loan denials based on ML recommendations without human review",
+  "industry_sector": "U.S. consumer banking / credit underwriting",
+  "business_need": "Reduce review workload while maintaining fair, explainable, accurate credit decisions",
+  "users_stakeholders": "Applicants, loan officers, model-risk team, compliance, customer support, bank management",
+  "management_question": "What adoption posture should management approve now?",
+  "time_horizon": "Next 90 days, with a review after a bounded pilot",
+  "organization": "Hypothetical regional bank with limited model validation staff",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "No validated explanation quality, fairness audit, vendor documentation or production monitoring; no audited adverse-action reason mapping",
+  "risk_consequence_context": "Potential irreversible denial and failure to provide accurate principal reasons; high customer and compliance consequences",
+  "additional_context": "Instructional higher-consequence test; implementation cannot be justified by aggressive posture alone."
+}

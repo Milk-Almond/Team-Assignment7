@@ -1,0 +1,5 @@
+{
+  "selected_option": "A",
+  "reasoning": "A bounded supervised pilot against manual review resolves the actual local evidence gap while retaining staff approval. Enterprise rollout, indefinite vendor monitoring and categorical rejection are unsupported.",
+  "method": "Interactive Codex application of unchanged agent instructions; same session, not isolated blind model execution."
+}

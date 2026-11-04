@@ -1,0 +1,54 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "contextual adoption posture and conditional decisions",
+    "version": "1.1-student-2026-11-02"
+  },
+  "analytical_question": "Should the named organization adopt, experiment, monitor, defer or reject machine-learning underwriting support over the next 90 days?",
+  "general_et_finding": "ML can be evaluated as a predictive support approach, but maturity and diffusion for any specific model cannot be determined from this case. Reliable use requires data and model validation; peer adoption is not proof of local suitability.",
+  "application_finding": "Underwriting recommendations may reduce review burden, but comparison with existing manual/rules-based practice, fairness testing and explainable adverse-action factors are essential.",
+  "organization_specific_finding": "The digital bank has established reviewers and secure shadow-mode infrastructure, allowing a reversible, non-customer-impacting evaluation. The missing model outcome data still rules out production deployment.",
+  "evidence": [
+    {
+      "claim": "Risk management for AI should address governance, context, measurement and management throughout lifecycle.",
+      "source_or_reference": "NIST AI RMF 1.0 (2023), https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+      "date_or_recency": "2023; document accessed 2026-11-02",
+      "evidence_type": "primary framework source",
+      "notes": "Framework informs risk controls; does not establish model maturity or fitness."
+    },
+    {
+      "claim": "Covered creditors must disclose specific, accurate principal reasons for adverse actions even where complex algorithms are used.",
+      "source_or_reference": "CFPB Circular 2022-03, https://www.consumerfinance.gov/compliance/circulars/circular-2022-03-adverse-action-notification-requirements-in-connection-with-credit-decisions-based-on-complex-algorithms/ ; CFPB Circular 2023-03, https://files.consumerfinance.gov/f/documents/cfpb_adverse_action_notice_circular_2023-09.pdf",
+      "date_or_recency": "2022 and 2023; documents accessed 2026-11-02",
+      "evidence_type": "primary regulatory guidance",
+      "notes": "Relevant to credit decision use; not proof of any specific vendor model performance."
+    },
+    {
+      "claim": "The organization and capability assumptions are case premises, not independently observed performance results.",
+      "source_or_reference": "Assignment 6 instructional scenarios; student-authored test inputs",
+      "date_or_recency": "2026-11-02",
+      "evidence_type": "hypothetical scenario",
+      "notes": "Do not treat scenario statements as verified institutional facts."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "No measured accuracy, subgroup error rates, drift, workload savings or third-party model due diligence is supplied.",
+    "Peer diffusion and cost superiority over existing practices have not been documented for the specific system.",
+    "Existing CFPB guidance is not a substitute for legal assessment of the actual product and current rules."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in safe testability, low confidence in eventual performance without local results. Overall model maturity, vendor evidence and case-specific diffusion remain unknown.",
+  "value_opportunity_implication": "Potential value is faster and more consistent underwriting support, conditional on demonstrated incremental improvement over the existing review process.",
+  "risk_governance_implication": "Keep decisions human-controlled; freeze deployment on unexplained subgroup harm, unreliable adverse-action reasons, data leakage or validation failure.",
+  "recommendation_management_implication": "BOUNDED EXPERIMENT: Conduct a 90-day shadow-mode experiment, cap exposure to nonbinding recommendations, measure accuracy, bias, explainability, operational workload and drift versus the manual baseline; set stop rules and human sign-off. Reject immediate full production adoption as unsupported by local evidence.",
+  "change_monitoring_triggers": [
+    "Independent local model validation and subgroup performance results versus manual baseline",
+    "Demonstrated accurate and specific adverse-action reason mapping; compliance sign-off",
+    "Measured net benefit, cost and workflow impact; acceptable reversible pilot controls",
+    "Approved review after 90 days or sooner upon safety, regulatory or capability changes"
+  ],
+  "abstention_or_more_information_needed": [
+    "Vendor/model identity, training-data provenance and actual system validation report",
+    "Target thresholds approved by model-risk and compliance leadership",
+    "Current jurisdiction-specific legal assessment and adverse-action workflow evidence"
+  ]
+}

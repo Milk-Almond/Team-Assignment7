@@ -2,7 +2,7 @@
   "agent": {
     "name": "Team Emerging Technology Adoption Agent",
     "specialty": "Bounded contextual adoption action and reversal conditions",
-    "version": "1.0-team-review"
+    "version": "1.1-team-review"
   },
   "analytical_question": "Should this organization adopt, experiment with, monitor, defer or reject retrieval-assisted generative AI for supplier-comparison drafting now?",
   "general_et_finding": "General maturity for this procurement task is unestablished by the available evidence; retrieval does not justify assuming correctness. Comparable procurement diffusion and current vendor capability are unknown. Organizational enthusiasm cannot resolve those evidence gaps.",
