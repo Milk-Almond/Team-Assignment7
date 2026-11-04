@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Retrieval-assisted generative AI language model",
+  "intended_application": "Draft source-linked supplier comparison summaries for indirect procurement; buyers verify every comparison before any supplier decision.",
+  "organization": "Siemens Energy procurement department, hypothetical teaching scenario; no internal company facts are asserted.",
+  "industry_sector": "Energy equipment procurement; this use is limited to non-safety-critical indirect purchases.",
+  "business_need": "Find out whether drafting time falls after including review and correction effort, without reducing comparison accuracy.",
+  "users_stakeholders": "Procurement analysts, category manager, information security, legal, suppliers and approving buyers.",
+  "adoption_posture": "Aggressive leading-edge: leadership wants rapid learning and is willing to tolerate experimental failure.",
+  "capabilities_constraints": "ASSUMED: an innovation sponsor and budget exist, but no accountable reviewer, no approved data environment and no confirmed right to use supplier documents; local performance and vendor evidence are unavailable.",
+  "risk_consequence_context": "Confidential supplier bids may be exposed and misleading comparisons may affect supplier awards unless controls and authority are established. No approved containment is available.",
+  "management_question": "What adoption posture should management take now for this application, and what evidence would change it?",
+  "time_horizon": "Four-week learning decision starting 2026-11-03; reassess at day 28.",
+  "additional_context": "All operational conditions are synthetic test assumptions, not observed Siemens Energy policy. Evidence S1: NIST AI 600-1 July 2024, section 2.2 and Appendix A.1.4, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf, read 2026-11-03: confabulation risk and context-dependent testing. Evidence S2: NIST AI RMF 1.0 January 2023, section 1.2.2, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf, read 2026-11-03: organizational risk tolerance matters. Neither source establishes procurement accuracy, local ROI, current vendor capability or market diffusion. Quantitative thresholds in this exercise are proposed decision rules, not measured results."
+}

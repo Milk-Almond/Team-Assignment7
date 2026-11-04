@@ -1,0 +1,2 @@
+# Frozen reference tools use the standard library. Team verification adds full JSON Schema checks.
+jsonschema>=4.18,<5

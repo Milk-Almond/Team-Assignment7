@@ -1,3 +1,23 @@
-# Team Lab 7
+# Team Lab 7 — Emerging Technology Adoption Agent
 
-Adoption synthesis package upload in progress.
+Version **1.0-team-review**. Technical synthesis and local verification package; actual team approval and workshop-process evidence remain unrecorded.
+
+## Start here
+- [Team Agent Record](agents/adoption_agent/records/agent_record.md)
+- [Synthesis comparison](records/candidate_comparison.md), [decision](records/decision_log.md), [dissent](records/dissent_and_bias_review.md)
+- [Requirements audit](deliverables/requirements_audit.md) and [verification log](deliverables/verification_log.txt)
+- [Sources](records/evidence_register.md), [contributions](records/contributions.md), [inventory](records/agent_inventory.md), [handoff](records/integration_issues.md)
+
+## Run and use
+Python 3 with `pip install -r requirements.txt` (includes jsonschema for the added full-schema checks).
+```sh
+python scripts/verify_team.py
+python tools/build_prompt.py --agent agents/adoption_agent --case agents/adoption_agent/cases/primary.json
+```
+Open the generated work/adoption_agent_primary_prompt.txt in ChatGPT, run it, save the actual JSON, then validate with tools/validate_response.py and rerun the verifier. No API key is required. Existing responses are explicitly labeled fixtures in the test log, not independent repeat runs.
+
+## Proposed management decision
+A four-week synthetic/public-data shadow experiment can test comparative workflow value under assumed permissions, two reviewers and USD 2000 total cap. Decisive factor: authorized reversible learning. Missing controls or a material error changes current action to DEFER. Successful screening permits further evaluation, not automatic ADOPT.
+
+## Submission
+Review the requirements audit with all members; record the actual decision, dissent, contribution and workshop evidence, and resolve the missing fifth individual Adoption package (the supplied Team-Assignment6 is a Diffusion agent). One designated member submits the team repository/package and Agent Record to Brightspace within the course's one-day posting window. GitHub posting alone does not submit to Brightspace. Do not mark approval or classroom attendance without evidence.

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI large language model (LLM) systems",
+  "intended_application": "Draft consultant-written client summaries for human review",
+  "industry_sector": "Management consulting",
+  "business_need": "Reduce drafting time without reducing factual quality or confidentiality",
+  "users_stakeholders": "Consultants, reviewers, client account leads, clients, privacy/security owner",
+  "management_question": "What posture should management take now, and what evidence changes it?",
+  "time_horizon": "Next 90 days",
+  "organization": "Small consulting firm with confidential bespoke client engagements",
+  "adoption_posture": "Risk-conscious fast follower; no tolerance for client data leakage",
+  "capabilities_constraints": "Limited security engineering; manual review required; no verified private tenant or data retention terms; limited evaluation data",
+  "risk_consequence_context": "High: sensitive client information, factual errors, reputational and contractual harm",
+  "additional_context": "Hypothetical: a material factual error escaped human review during a pilot; speed improved, but no measured error rate or robust second-line review exists. Must not expand deployment."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI conversational assistants as deployed systems.",
+  "intended_application": "Client-facing wealth-management risk-tolerance intake: ask approved questions, clarify, structure and summarize client responses, and route them to a human financial advisor. No autonomous risk classification, suitability judgment, portfolio allocation, or investment recommendation.",
+  "organization": "Hypothetical established regional bank with a wealth-management division. No actual bank outcomes supplied; asset size, legal entity and jurisdiction are not confirmed.",
+  "industry_sector": "Regulated banking and wealth management. US sources are conditional context; UK survey evidence is comparative diffusion evidence, not governing law.",
+  "business_need": "Determine whether conversational intake improves completeness and advisor preparation relative to the current advisor-led questionnaire and a simpler digital form. No measured efficiency or quality advantage is supplied.",
+  "users_stakeholders": "Clients, financial advisors, wealth-management sponsor, compliance/legal, privacy/security, operations, and model or technology governance staff.",
+  "adoption_posture": "Aggressive / leading-edge. Management accepts more residual uncertainty and prefers rapid learning from limited real-client experiments, subject to the same mandatory safeguards. All other context, evidence, unknown capabilities and consequences remain identical to the primary case.",
+  "capabilities_constraints": "Existing advisor-led process is the baseline by scenario assumption. Dedicated staff capacity, approved model/vendor environment, data permissions, audit logging, retention controls, and effectiveness of human review are unverified. Synthetic-data feasibility testing can be proposed but its funding/owner are not established facts.",
+  "risk_consequence_context": "Medium-high by scenario assumption. Missing, distorted or inferred information could influence later financial discussions. Advisor review is intended, but its effectiveness has not been tested. Sensitive client information must not enter unapproved systems.",
+  "management_question": "What adoption posture is appropriate now, and what evidence should permit progression to a client pilot or implementation?",
+  "time_horizon": "Decision as of October 27, 2026; next 12-18 months. Propose a short initial evaluation with a defined review point.",
+  "additional_context": "Use the fixed evidence brief appended to the specialist instructions. Prior agent records support investigating bounded assistance but do not establish adoption readiness or actual benefits. All organizational details are hypothetical assumptions, not observed bank facts."
+}

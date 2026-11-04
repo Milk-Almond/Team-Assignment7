@@ -1,0 +1,42 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "Contextual emerging technology adoption posture",
+    "version": "0.1-student"
+  },
+  "analytical_question": "What action is appropriate now for this procurement application?",
+  "general_et_finding": "Retrieval-assisted generation can still produce unsupported claims; procurement maturity and diffusion are unverified.",
+  "application_finding": "Source-linked draft comparisons may help buyers, but local benefit and accuracy remain untested.",
+  "organization_specific_finding": "The hypothetical fast-follower team has a contained sandbox and reviewers, making learning possible without live awards.",
+  "evidence": [
+    {
+      "claim": "Confabulation is a risk.",
+      "source_or_reference": "S1 https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf section 2.2",
+      "date_or_recency": "July 2024; read 2026-11-03",
+      "evidence_type": "Original guidance",
+      "notes": "Does not establish local performance."
+    },
+    {
+      "claim": "Approved synthetic sandbox and reviewers are available.",
+      "source_or_reference": "cases/primary.json capabilities_constraints",
+      "date_or_recency": "Synthetic scenario dated 2026-11-03",
+      "evidence_type": "Scenario assumption",
+      "notes": "Not verified company data."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Manual comparisons may be simpler and cheaper.",
+    "No local ROI, vendor security or comparable peer evidence."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in an experiment; low confidence in production adoption.",
+  "value_opportunity_implication": "An experiment can test drafting efficiency against the manual baseline.",
+  "risk_governance_implication": "Maintain human review and avoid confidential documents and live awards.",
+  "recommendation_management_implication": "Conduct a bounded experiment in the approved sandbox and review the result before expansion.",
+  "change_monitoring_triggers": [
+    "Reconsider adoption when accuracy and savings improve.",
+    "Stop if risks become unacceptable."
+  ],
+  "abstention_or_more_information_needed": [
+    "Need local performance and vendor security information before production."
+  ]
+}

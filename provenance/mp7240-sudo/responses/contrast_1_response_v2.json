@@ -1,0 +1,85 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "Contextual emerging technology adoption recommendation",
+    "version": "0.2-student"
+  },
+  "analytical_question": "As of October 27, 2026, what action is supportable for this hypothetical bank's LLM-assisted wealth-management risk-tolerance intake, and what evidence should permit progression to a client pilot or implementation?",
+  "general_et_finding": "LLM conversational systems have documented deployment and can support language-based interaction, but deployment maturity does not establish dependable performance for a particular consequential workflow. NIST identifies plausible false content, privacy risks and human over-reliance. Diffusion is distinct from reliability: the October 2026 Bank of England/FCA survey reports AI use among 86% of respondents and GenAI comprising 56% of reported AI systems, but these figures do not establish successful US wealth-intake deployments. The reviewed evidence supports investigating bounded assistance; it does not establish local accuracy, economic advantage or effective human oversight.",
+  "application_finding": "Conversational clarification and structured summaries could improve completeness and advisor preparation; these are hypotheses, not measured benefits. Compare the assistant with both the scenario's advisor-led questionnaire and a simpler digital form with approved branching questions. The digital form may meet the need with less variable output and lower oversight burden; advisors can resolve ambiguity directly. Evaluate required-field completeness, faithful representation of uncertainty and contradictions, client comprehension, completion rates, advisor correction time, and total operating cost. Approved questions alone do not prevent misleading clarifications or distorted summaries. Even without autonomous classification or advice, intake errors could influence later financial discussions. Preserve source responses, flag unanswered questions, and prohibit inferred risk preferences.",
+  "organization_specific_finding": "All organizational details are supplied hypothetical assumptions rather than observed bank facts. Established within the scenario are an advisor-led baseline, retained advisor authority, leading-edge posture and medium-high consequences. No operational prerequisite is independently verified. Owner, funding, dedicated capacity, permitted testing environment, data permissions, logging, retention controls and reviewer effectiveness are unverified, not demonstrated absent. Missing evidence includes comparative performance, total cost and validated oversight results. The decisive factor is that even isolated testing lacks verified execution prerequisites. Aggressive posture supports urgent prerequisite verification and faster conditional learning; it does not change technology evidence or justify client exposure before safeguards are established. Reversibility is partial: software can be disabled, but disclosed data or misleading client interactions may not be recoverable.",
+  "evidence": [
+    {
+      "claim": "Generative AI can produce plausible incorrect content; privacy and human over-reliance are relevant risks.",
+      "source_or_reference": "E1: [NIST AI 600-1, Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf), section 2.2 and risk overview.",
+      "date_or_recency": "Published July 2024; original source accessed October 27, 2026.",
+      "evidence_type": "Original government voluntary risk guidance.",
+      "notes": "Independently accessed during this run. Supports general risk identification, not bank-specific performance, quantified error rates or legal approval."
+    },
+    {
+      "claim": "The survey received 196 responses, with 105 completing the full questionnaire; 86% reported AI use, and GenAI represented 56% of reported AI systems.",
+      "source_or_reference": "E2: [Bank of England/FCA, Artificial intelligence in UK financial services 2026](https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026), executive summary and sections 1.2–2.",
+      "date_or_recency": "Published October 26, 2026; original source accessed October 27, 2026.",
+      "evidence_type": "Original regulator survey; respondent-reported diffusion.",
+      "notes": "Independently accessed during this run. Respondent selection, changed definitions and differing questionnaires limit interpretation and historical comparisons. Does not establish application benefit, US suitability or governing law."
+    },
+    {
+      "claim": "FINRA states that existing obligations apply to member firms using GenAI and that firms should evaluate tools before deployment.",
+      "source_or_reference": "E3: [FINRA Regulatory Notice 24-09](https://www.finra.org/rules-guidance/notices/24-09).",
+      "date_or_recency": "Published June 27, 2024; original source accessed October 27, 2026.",
+      "evidence_type": "Original regulatory notice.",
+      "notes": "Independently accessed during this run. Applicability is conditional on the bank's entity structure and FINRA membership or affiliate activities, which are unknown. This analysis makes no legal determination."
+    },
+    {
+      "claim": "SR 26-2 is generally most relevant above $30 billion in assets; its attachment expressly excludes generative and agentic AI while identifying organizational governance as relevant to excluded systems.",
+      "source_or_reference": "E4: [Federal Reserve SR 26-2](https://www.federalreserve.gov/supervisionreg/srletters/sr2602.htm) and [attached guidance, footnote 3](https://www.federalreserve.gov/supervisionreg/srletters/SR2602a1.pdf).",
+      "date_or_recency": "Published April 17, 2026; letter and attachment accessed October 27, 2026.",
+      "evidence_type": "Original supervisory letter and guidance.",
+      "notes": "Independently accessed during this run. Do not present this guidance as directly governing the LLM. Bank size, regulator and legal structure remain unknown."
+    },
+    {
+      "claim": "Earlier student records support scenario continuity and retained advisor authority but establish no measured benefit or readiness.",
+      "source_or_reference": "E5: Prior student Agent Records for Assignments 2, 3 and 4, as summarized in the supplied fixed evidence brief.",
+      "date_or_recency": "Records dated October 5, 11 and 17, 2026; summary supplied for this October 27, 2026 decision.",
+      "evidence_type": "Supplied summary of prior hypothetical analysis.",
+      "notes": "Underlying records were not independently accessed. Earlier recommendations are not deployment observations or proof that controls work."
+    },
+    {
+      "claim": "The baseline exists by scenario assumption, while resources, environment permissions and control effectiveness remain unverified.",
+      "source_or_reference": "Supplied CASE CONTEXT, especially capabilities_constraints, risk_consequence_context and additional_context.",
+      "date_or_recency": "Decision scenario dated October 27, 2026.",
+      "evidence_type": "Hypothetical case assumptions.",
+      "notes": "Supports conditional management reasoning only; no actual bank observations, approvals or outcomes are supplied."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Strongest advocate argument: the narrow assistance scope and retained advisor authority make this a plausible opportunity for rapid learning; conversational clarification may reveal information a static questionnaire misses. Resolution: prioritize prerequisite verification and a conditional isolated test, then a controlled client experiment if gates pass.",
+    "Strongest risk-officer objection: untested advisor review may fail to catch subtle distortions, while client-facing interactions can cause harm before an advisor intervenes. Resolution: verify both conversational safeguards and review effectiveness before client exposure; retain direct advisor access and immediate rollback.",
+    "The source review is selective, not a comprehensive legal or market assessment. No reviewed source demonstrates this bank's benefit, acceptable error rate, cost advantage or readiness.",
+    "Synthetic testing can demonstrate feasibility and expose failures but cannot establish real-client trust, completion behavior, actual efficiency or reliable performance across the client population.",
+    "A simpler digital form may provide comparable improvements with lower integration and supervision burden. Novelty and market adoption cannot substitute for this comparison."
+  ],
+  "confidence_and_uncertainty": "High confidence in the provisional DEFER category under the supplied gate rules because owner, resources and permitted environment are unverified. High confidence that diffusion evidence does not establish application benefit. Confidence is limited regarding comparative value, acceptable residual risk and eventual implementation because local measurements and control verification are absent. No probability of success or quantified ROI is supportable.",
+  "value_opportunity_implication": "The opportunity is better intake and advisor preparation, not automated suitability or investment advice. Measure whether gains exceed model/vendor costs, integration, security review, monitoring, advisor correction, support and change-management burden. Count advisor time saved only after correction and oversight effort. If the digital form delivers comparable completeness and preparation at lower total burden, prefer it. Route staffing, training, readiness and stakeholder-engagement assessment to the Organizational Adoption Agent.",
+  "risk_governance_implication": "Before client testing, verify an approved environment and data permissions, access restrictions, vendor data-use terms, logging and retention, incident handling, and enforceable scope limits. Proposed safeguards include approved neutral clarifications, visible AI disclosure, client correction and advisor handoff, preserved source responses linked to summaries, and explicit handling of unknown or contradictory answers. Advisors must verify material intake facts against source responses before downstream use. Test reviewers with seeded omissions and distortions rather than assuming a review checkbox is effective. Compliance/legal must establish applicable obligations from the actual entity and jurisdiction. No purchase or deployment approval is provided.",
+  "recommendation_management_implication": "DEFER: postpone execution of both feasibility testing and client trials pending verification of an accountable owner, resources and a permitted testing environment. Continue the advisor-led baseline. Proposed accountable role: wealth-management sponsor, to be formally designated by management; this is not an existing appointment. Conduct administrative prerequisite verification immediately and review by November 10, 2026. Unknown prerequisites are unverified; none is assumed satisfied. Once ownership, funded capacity, approved isolated environment and authorized synthetic data are documented, the conditional next stage is a four-week PROOF OF CONCEPT with no real clients or consequential decisions. Compare the assistant with the current questionnaire and a branching digital form using representative synthetic cases, including ambiguity, contradictions, accessibility needs and attempts to elicit advice. Proposed management criteria, not research findings: complete coverage of mandatory questions or explicit unanswered flags; no critical invented or distorted client facts in the acceptance set; no prohibited advice; demonstrated reviewer detection of every seeded critical error; and verified logging, access controls and rollback. Any critical failure blocks progression until remediation and retesting. Passing this gate establishes limited feasibility, not deployment readiness. A subsequent BOUNDED EXPERIMENT requires verified client-data permissions, applicable compliance review, effective human oversight, staffed monitoring and an approved protocol. Proposed scope: a four-week opt-in pilot capped at 20 clients with designated advisors and direct advisor fallback; the cap limits exposure and is not a statistical sufficiency claim. Before enrollment, freeze baseline measures and management-approved numerical benefit and error thresholds. Measure completeness, completion, material error frequency, client comprehension, and total advisor time including corrections against both comparators. Require zero critical errors escaping advisor review, zero unauthorized disclosures and zero prohibited recommendations; pause immediately for any such event. Advisors verify every summary before use, and independent checks assess reviewer misses. Rollback disables the assistant, restores advisor-led intake, preserves authorized audit evidence and corrects affected records. Consider ADOPT only for the same narrow scope after adequate representative real-work evidence meets pre-agreed benefit, error, cost and control criteria; retain staged rollout, exposure caps and monthly review. The leading-edge posture increases urgency, not permission to bypass these gates.",
+  "change_monitoring_triggers": [
+    "By November 10, 2026, the proposed wealth-management sponsor should present documented owner, funding, capacity and environment decisions. If verification remains incomplete, retain DEFER, identify unresolved items and review every two weeks.",
+    "Start the conditional four-week proof of concept only when its prerequisites are documented. Review the acceptance evidence at its close; critical failures require remediation and retesting before progression.",
+    "Authorize consideration of a client experiment only after technical feasibility, permissions, oversight effectiveness, monitoring, rollback and numerical evaluation thresholds are verified.",
+    "During any client experiment, designated operations and governance reviewers should check results daily and conduct a weekly gate review. Unauthorized disclosure, prohibited advice, critical escaped distortion or failed oversight triggers immediate suspension and advisor-led fallback.",
+    "A model, prompt, vendor, retention-policy or integration change triggers proportionate re-evaluation before expanded use. New evidence about applicable obligations requires compliance/legal review.",
+    "At each stage, compare benefit and total burden with the simpler digital form. Persistent lack of advantage supports ending the initiative; remediable control gaps support deferral.",
+    "Across the next 12–18 months, the designated sponsor should reassess quarterly using local results, relevant peer evidence and changed controls. No automatic progression follows elapsed time or broader market adoption."
+  ],
+  "abstention_or_more_information_needed": [
+    "A definitive implementation recommendation is withheld; the available information supports provisional deferral and administrative verification.",
+    "Identify the accountable sponsor, evaluation owner, available budget, staff capacity and authorized isolated testing environment.",
+    "Provide bank asset size, legal entity, operating jurisdiction, regulator and any relevant FINRA-member affiliate relationship for compliance/legal assessment.",
+    "Verify data permissions, vendor terms, access controls, logging, retention, incident response and rollback capabilities separately for synthetic testing and real-client use.",
+    "Supply baseline completeness, material omissions, completion rates, advisor preparation and correction time, client accessibility needs and operating costs.",
+    "Define critical versus noncritical errors, acceptable residual risk, numerical benefit thresholds and a representative evaluation design before client enrollment.",
+    "Provide evidence that advisors detect material omissions and distortions under realistic workload, including measured misses and review time.",
+    "Have the Organizational Adoption Agent assess staffing, training, readiness, stakeholder engagement and implementation ownership before any operational trial."
+  ]
+}

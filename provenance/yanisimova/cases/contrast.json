@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI large language model (LLM) systems",
+  "intended_application": "Draft consultant-written client summaries for human review",
+  "industry_sector": "Management consulting",
+  "business_need": "Reduce drafting time without reducing factual quality or confidentiality",
+  "users_stakeholders": "Consultants, reviewers, client account leads, clients, privacy/security owner",
+  "management_question": "What posture should management take now, and what evidence changes it?",
+  "time_horizon": "Next 90 days",
+  "organization": "Consulting firm with mature internal evaluation and security function",
+  "adoption_posture": "Experiment-friendly; accepts bounded reversible trials, not unreviewed production",
+  "capabilities_constraints": "Approved isolated sandbox, synthetic/public test corpus, named reviewer, measurement process, stop switch and security oversight",
+  "risk_consequence_context": "Low during synthetic-data testing; still high if client-sensitive outputs reach customers",
+  "additional_context": "Hypothetical contrast: same technology and application; only organizational capabilities, data exposure and risk posture differ."
+}
