@@ -1,0 +1,8 @@
+q1 B SCHEMA/RECORDED-ANSWER CHECK PASS
+q2 C SCHEMA/RECORDED-ANSWER CHECK PASS
+q3 A SCHEMA/RECORDED-ANSWER CHECK PASS
+q4a D SCHEMA/RECORDED-ANSWER CHECK PASS
+q4b D SCHEMA/RECORDED-ANSWER CHECK PASS
+q5 B SCHEMA/RECORDED-ANSWER CHECK PASS
+PASS: six schema pairs; five question answers; A/B stable evidence and changed action; Q5 does not fabricate completed results.
+Checks verify saved artifacts, not independently generated model behavior. Semantic grading is same-session reviewer judgment.

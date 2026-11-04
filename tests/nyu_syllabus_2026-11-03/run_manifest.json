@@ -1,0 +1,12 @@
+{
+  "tested_commit": "970af738df5272d57674370d7d95c39c03dbc6ac",
+  "agent_version": "1.0-team-review",
+  "date": "2026-11-03",
+  "source_pdf_sha256": "1d61e13727e643720fada10e975b333e6b108e3d5b2f9999590c578fe5c18310",
+  "instructions_sha256": "19108a72e541f55992b9266f24d63ef5ddcd2e9854c876c0b18639b577d0fc7b",
+  "runtime": "Current interactive ChatGPT/Codex session applying loaded specialist instructions; not API or independent fresh-chat execution.",
+  "generation": "New case-specific responses composed in this session and serialized using Python; Python does not run an LLM.",
+  "scoring": "Five questions, Q4 expanded into A/B contexts. Expected answers inferred by the same evaluator, not an official supplied answer key. Not blind.",
+  "extra_assumptions": "Four weeks, 30 syllabi, 40 staff-hours and 20% effort target are proposed test design parameters, not supplied facts or measured results.",
+  "agent_changed": false
+}

@@ -21,3 +21,6 @@ A four-week synthetic/public-data shadow experiment can test comparative workflo
 
 ## Submission
 Review the requirements audit with all members; record the actual decision, dissent, contribution and workshop evidence, and resolve the missing fifth individual Adoption package (the supplied Team-Assignment6 is a Diffusion agent). One designated member submits the team repository/package and Agent Record to Brightspace within the course's one-day posting window. GitHub posting alone does not submit to Brightspace. Do not mark approval or classroom attendance without evidence.
+
+## Classroom-question test records
+[NYU syllabus checking: five questions, six context responses](tests/nyu_syllabus_2026-11-03/README.md). Answers B/C/A/D/B align with reviewer-inferred case reasoning; Q4 category ambiguity preserved. Same-session AI walkthrough, not independent benchmarking.

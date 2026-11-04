@@ -1,0 +1,143 @@
+ADOPTION STRATEGIES
+
+Case: NYU syllabus checking
+NYU is considering generative AI to help program staff check
+syllabi against a checklist of required elements.
+The system flags possible omissions and identifies supporting
+passages.
+Staff review every finding and retain final approval.
+
+Classroom case. These assumptions do not describe NYU’s current systems or policies.
+01 / 12
+
+ADOPTION STRATEGIES
+
+Case assumptions
+Assume an approved environment and permitted documents.
+Following the chapter, general business uses of generative AI are
+leading edge.
+NYU has no verified local evidence that syllabus checking improves on
+its manual checklist.
+
+Teams choose A, B, C or D. The instructor scores on the whiteboard.
+Each answer slide includes reasoning and a team explanation prompt.
+02 / 12
+
+QUESTION 1
+
+Business context
+Which industry and application best describe this case?
+A
+
+Software industry: development of a commercial AI product.
+
+B
+
+Higher education: administrative support for syllabus review.
+
+C
+
+Higher education: automated assessment of student learning.
+
+D
+
+Publishing industry: generation of instructional content.
+
+03 / 12
+
+QUESTION 2
+
+Technology and application
+What is the most defensible classification finding?
+A
+
+Generative AI is leading edge, so syllabus checking is ready for
+university-wide adoption.
+
+B
+
+Generative AI is commodity technology because it is widely accessible.
+
+C
+
+Generative AI is leading edge generally. This application still requires
+evidence of fitness.
+
+D
+
+Generative AI is bleeding edge generally because NYU has not tested
+this application.
+05 / 12
+
+QUESTION 3
+
+Current adoption posture
+Given the case facts, what should NYU do now?
+A
+
+Conduct a bounded pilot, compare with manual review and retain staff
+approval.
+
+B
+
+Adopt across all programs and discover weaknesses during rollout.
+
+C
+
+Monitor vendor announcements until generative AI becomes
+commodity technology.
+
+D
+
+Reject the application because generative AI cannot guarantee errorfree results.
+07 / 12
+
+QUESTION 4
+
+Organizational posture
+Same technology, application and evidence. Program A permits a
+supervised pilot. Program B requires independent application
+results before a live trial. What follows?
+
+A
+
+The technology is leading edge for A but generally bleeding edge for B.
+
+B
+
+Both must adopt because the technology has crossed the chasm.
+
+C
+
+Both must reject because they disagree about acceptable uncertainty.
+
+D
+
+A may pilot. B may defer the live trial with an explicit evidence trigger.
+09 / 12
+
+QUESTION 5
+
+Evidence for staged adoption
+Which result best supports moving beyond the pilot?
+A
+
+Staff enjoy the system and the vendor reports rapid customer growth.
+
+B
+
+Representative tests meet agreed quality and net time-saving targets
+against manual review, with review and rollback retained.
+
+C
+
+The system flags more omissions than staff, but nobody has checked
+the extra flags.
+
+D
+
+NYU has invested substantial effort and should recover that
+investment.
+11 / 12
+
+
