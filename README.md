@@ -27,3 +27,5 @@ Review the requirements audit with all members; record the actual decision, diss
 
 ## Version 1.1 integration
 All five individual Adoption candidates are now compared, including [sawulya](https://github.com/sawulya/Lab-6---SubAgent-5-Adoption), which replaces the mistaken prior-team Diffusion input. See [concrete source contributions](records/candidate_comparison.md) and [v1.1 NYU regression](tests/nyu_syllabus_v1_1/README.md). Prior v1.0 and NYU records are historical. Current procurement contrast_1 is DEFER for the explicitly blocked experiment; monitoring is supporting evidence collection. All regression responses remain reference examples rather than independently generated model runs.
+
+[Repeat-upload v1.1 test](tests/nyu_repeat_upload_v1_1/README.md): answers B/C/A/D/B; Q4 qualified due to surviving MONITOR/DEFER instruction conflict. Records retained without rewriting earlier runs.

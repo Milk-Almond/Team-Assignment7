@@ -1,0 +1,27 @@
+[
+  {
+    "question": 1,
+    "answer": "B",
+    "reason": "The users are program staff checking syllabus completeness in higher education; this is administrative review support, not student assessment or commercial product development."
+  },
+  {
+    "question": 2,
+    "answer": "C",
+    "reason": "Leading-edge status is supplied at the general business-use level. Neither accessibility nor NYU's lack of local tests proves commodity or bleeding-edge status. Application fitness is still unknown."
+  },
+  {
+    "question": 3,
+    "answer": "A",
+    "reason": "A supervised bounded comparison against manual checking can resolve the local value gap while preserving staff approval. Immediate rollout, indefinite maturity waiting and categorical rejection do not follow."
+  },
+  {
+    "question": 4,
+    "answer": "D",
+    "reason": "A permits a supervised pilot; B withholds live-trial authorization pending independent application evidence. B should defer that activity with a reopening gate, using monitoring to collect evidence. General technology findings remain the same."
+  },
+  {
+    "question": 5,
+    "answer": "B",
+    "reason": "Representative quality and net effort improvements versus manual review support staged progression with review and rollback. Popularity, unverified extra flags, enjoyment and sunk costs cannot establish local benefit."
+  }
+]

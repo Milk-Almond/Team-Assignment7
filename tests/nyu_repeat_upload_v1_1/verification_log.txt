@@ -1,0 +1,2 @@
+PASS: input/output schema; exact output fields; recorded B/C/A/D/B answers; B trial deferral; no fabricated Q5 outcomes.
+QUALIFIED: Q4 MONITOR/DEFER instruction conflict remains. Same-session, nonblind self-review; no independent performance claim.

@@ -7,3 +7,5 @@ Retest conclusion: fixture checks pass after explicit pause rule. Still unknown:
 2026-11-03: Added supplied NYU classroom questions, all five answers and six frozen-schema responses. See tests/nyu_syllabus_2026-11-03/README.md. Q4 MONITOR/DEFER ambiguity preserved as qualified pass; tested instructions unchanged.
 
 v1.1: corrected fourth Adoption input sawulya integrated. New autonomy consequence contrast, five full schema pairs and all five candidates' common packets checked. Prior v1.0 MONITOR result archived; v1.1 applies DEFER to the explicit sponsorship evidence gate. NYU Q4 ambiguity recorded in the historical test informed this change. New NYU v1.1 record preserves same-session analysis/retest limits. No independent or repeated model performance claim.
+
+Repeat-upload v1.1 test: supplied PDF identical to prior; new combined response and records in tests/nyu_repeat_upload_v1_1. B/C/A/D/B align with inferred key. Q4 remains QUALIFIED because earlier MONITOR clauses conflict with later DEFER clarification. No rule changed during testing.

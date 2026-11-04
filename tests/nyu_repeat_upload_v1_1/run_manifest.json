@@ -1,0 +1,10 @@
+{
+  "tested_commit": "bf8e09ea73ca00fb2d6913a24a266e0950f20fb6",
+  "agent_version": "1.1-team-review",
+  "source_pdf_sha256": "1d61e13727e643720fada10e975b333e6b108e3d5b2f9999590c578fe5c18310",
+  "identical_to_prior_pdf": true,
+  "instructions_sha256": "4b4a993d8f779942b133e48577ed91c102e21802c4d0819700291aa86f8aa54a",
+  "method": "New combined response composed by current interactive Codex model after reading the unchanged specialist instructions; Python serializes and validates. Not isolated fresh-chat/API execution.",
+  "evaluation": "Same-session self-review; previous answers visible. Expected key is reviewer-inferred, not an official teacher key. Not independent or blind.",
+  "instructions_changed": false
+}
